@@ -5,6 +5,8 @@ Isle of Man - IM
 Jersey - JE
 Mayotte - YT
 
+Codes taken from : https://countrycode.org
+
 [![Build Status](https://travis-ci.org/davegardnerisme/phonegeocode.svg?branch=master)](https://travis-ci.org/davegardnerisme/phonegeocode)
 
 Internationalised phone number geocoding by country for Go.
